@@ -5,14 +5,14 @@
   DTS:CreationName="Microsoft.Package"
   DTS:CreatorComputerName="DESKTOP-AIEDA3J"
   DTS:CreatorName="DESKTOP-AIEDA3J\Katzberg"
-  DTS:DTSID="{4B982650-7CCB-4755-89F7-8AA6DCD44C01}"
+  DTS:DTSID="{5869C6CD-C6E1-455A-AF1B-BEEBA0BA58E8}"
   DTS:ExecutableType="Microsoft.Package"
   DTS:LastModifiedProductVersion="15.0.1100.123"
   DTS:LocaleID="1033"
-  DTS:ObjectName="Package"
+  DTS:ObjectName="ExcelSQLStudents"
   DTS:PackageType="5"
-  DTS:VersionBuild="1"
-  DTS:VersionGUID="{4E1EAB3D-A135-48B1-9FF9-E478250FE9CB}">
+  DTS:VersionBuild="2"
+  DTS:VersionGUID="{0D4E6876-0F21-4168-B3B2-FDCBA01DC236}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -23,7 +23,7 @@
       DTS:ObjectName="Excel Connection Manager 2">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=E:\Ania\Zeszyt1.xls;Extended Properties=&quot;Excel 8.0;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=E:\Ania\Zeszyt1.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
